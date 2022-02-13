@@ -1,0 +1,9 @@
+NAME
+        reference manual interface
+        show the command's function and how to use it
+
+SYNOPSIS
+        man [FUNCTION]
+
+DISCRIPTION
+        The program will display every relevant manual page 

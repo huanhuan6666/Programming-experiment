@@ -1,0 +1,12 @@
+NAME
+       cp - copy files or directories
+
+SYNOPSIS
+       cp (-r) file1[SOURCE] file2[DEST]
+       cp (-r) file[SOURCE] dir[DEST]
+       cp -r dir1[SOURCE] dir2[DEST]
+
+DESCRIPTION
+       copy file1 to file2 or cover file2 if there's a same name one
+       copy file to dir or cover the file in dir if there's a same name one
+       copy the content in dir1 to dir2 and cover the same name files

@@ -1,0 +1,9 @@
+NAME
+       cmp - compare two files byte by byte
+
+SYNOPSIS
+       cmp [FILE1] [FILE2]
+
+DESCRIPTION
+       compare FILE1 and FILE2 and print the first 
+       different character's location

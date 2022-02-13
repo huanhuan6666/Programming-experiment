@@ -1,0 +1,20 @@
+NAME
+       wc - print line, word, and byte counts for each file
+
+SYNOPSIS
+       wc [OPTION]... [FILE1] [FILE2] [FILE3]...
+
+DESCRIPTION
+       print the counts have chosen of each file and print the sum in the end
+
+       The options below may be sed to select which counts are printed,
+       always in the following order: lines, words, bytes
+
+       -c, --bytes
+              print the byte counts
+
+       -l, --lines
+              print the line counts
+       
+       -w, --words
+              print the word counts
